@@ -17,3 +17,7 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 </details>
 
 [google](https://www.google.com)
+
+| wort  | zweites wort |
+| ----- | :----------: |
+| hallo | Jana         |
