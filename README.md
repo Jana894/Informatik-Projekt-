@@ -11,3 +11,5 @@ Heute haben wir erfahren, wie der Informatik-Unterricht aufgebaut und was unsere
 Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und wie wir unseres gestalten können.
 
 <h2 id="kapitel1">2. Idee</h2>
+
+<details id="Link"><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
