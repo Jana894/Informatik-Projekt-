@@ -11,11 +11,11 @@ Heute haben wir erfahren, wie der Informatik-Unterricht aufgebaut und was unsere
 Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und wie wir unseres gestalten können. Anschließend haben wir dann verschiedene Möglichkeiten für unser eigenes Stundenprotokoll ausprobiert und uns mit "Markdown" vertraut gemacht. Erste Gedanken zu unserem Projekt haben wir uns auch schon gemacht und möchten wahrscheinlich ein 2D-Spiel mit "Snap" zu gestalten. Was für eine Art von Spiel beziehungweise welchen Aufbau dieses haben soll, wissen wir jedoch noch nicht und werden in den nächsten Stunden daran arbeiten.
 <details id="Link"><summary>Versuche mit Markdown</summary>
   
-[google](https://www.google.com)
+[Google](https://www.google.com)
   
-| wort  | zweites wort |
-| ----- | :----------: |
-| hallo | Jana         |
+| Tabelle | erstellen |
+| ------- | :-------: |
+| mit     | Markdown  |
 </details>
 
 <h2 id="kapitel1">2. Idee</h2>
@@ -24,8 +24,4 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 - Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
 </details>
 
-[google](https://www.google.com)
 
-| wort  | zweites wort |
-| ----- | :----------: |
-| hallo | Jana         |
