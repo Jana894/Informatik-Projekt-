@@ -1,5 +1,6 @@
 # Informatik-Projekt
 <li><a href="#kapitel1">1. Stundenprotokolle</a></h2></li>
+<li><a href="#kapitel1">2. Idee</a></h2></li>
 
 <h2 id="kapitel1">1. Stundenprotokolle</h2>
 
@@ -8,3 +9,5 @@ Heute haben wir erfahren, wie der Informatik-Unterricht aufgebaut und was unsere
 
 ### 17.08.2022
 Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und wie wir unseres gestalten können.
+
+<h2 id="kapitel1">2. Idee</h2>
