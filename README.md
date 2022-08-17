@@ -13,4 +13,4 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 <h2 id="kapitel1">2. Idee</h2>
 
 <details id="Link"><summary>verworfene Ideen</summary>
-Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
+- Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
