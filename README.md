@@ -12,4 +12,4 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 
 <h2 id="kapitel1">2. Idee</h2>
 
-<details id="Link"><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
+<details id="Link"><summary>verworfene Ideen</summary>
