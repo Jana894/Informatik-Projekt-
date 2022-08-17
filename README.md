@@ -14,3 +14,5 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 
 <details id="Link"><summary>verworfene Ideen</summary>
 - Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
+
+[google](https://www.google.com)
