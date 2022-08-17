@@ -4,3 +4,6 @@ Heute haben wir erfahren, wie der Informatik-Unterricht aufgebaut und was unsere
 
 ## 17.08.2022
 Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und welches wir bei uns anwenden können.
+
+### hi
+huuuu
