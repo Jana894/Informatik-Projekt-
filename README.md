@@ -19,6 +19,13 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 | mit     | Markdown  |
 </details>
 
+### 23.08.2022
+Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm zu orientieren und um erste Ideen zusammeln, wie wir unser 2D-Spiel umsetzen können.
+<details id="Link"><summary>Versuche mit "Snap!"</summary>
+
+["Snap!"](https://snap.berkeley.edu/snap/snap.html)
+</details>
+
 <h2 id="kapitel1">2. Idee</h2>
 
 <details id="Link"><summary>verworfene Ideen</summary>
