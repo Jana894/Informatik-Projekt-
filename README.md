@@ -33,3 +33,5 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 </details>
 
 
+    ![test](bilder/screenshot_snap_1.png "Screenshot von Snap!")
+    
