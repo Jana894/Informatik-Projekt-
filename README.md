@@ -13,11 +13,9 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 <details id="Link"><summary>Versuche mit Markdown</summary>
 
 Link einfügen:
-  
 [Google](https://www.google.com)
   
 Tabelle erstellen:
-  
 | Tabelle | erstellen |
 | ------- | :-------: |
 | mit     | Markdown  |
