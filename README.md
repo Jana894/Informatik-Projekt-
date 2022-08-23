@@ -32,6 +32,5 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 - Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
 </details>
 
-
 ![test](bilder/screenshot_snap_1.png "Screenshot von Snap!")
     
