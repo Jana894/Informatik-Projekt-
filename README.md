@@ -24,6 +24,7 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 ["Snap!"](https://snap.berkeley.edu/snap/snap.html)
+![screenshot snap](bilder/screenshot_snap_1.png "Screenshot von Snap!")
 </details>
 
 <h2 id="kapitel1">2. Idee</h2>
