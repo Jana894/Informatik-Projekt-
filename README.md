@@ -20,7 +20,7 @@ Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene St
 </details>
 
 ### 23.08.2022
-Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm zu orientieren und um erste Ideen zusammeln, wie wir unser 2D-Spiel umsetzen können.
+Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm zu orientieren und um erste Ideen zusammeln, wie wir unser 2D-Spiel umsetzen können. Um immer wieder auf unser Projekt zugreifen zukönnen, haben wir uns einen Account bei "Snap!" erstellt und mit der Hilfe von Herrn Buhl unseren ersten Screenshot in das Stundenprotokoll eingefügt. 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 ["Snap!"](https://snap.berkeley.edu/snap/snap.html)
