@@ -34,7 +34,6 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 ![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
-
 ![screenshot snap](bilder/screenshot_snap_3.png "Screenshot von Snap!")
 </details>
 
