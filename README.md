@@ -27,18 +27,16 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 
 ["Snap!"](https://snap.berkeley.edu/snap/snap.html)
 
-![screenshot snap](bilder/screenshot_snap_1.png "Screenshot von Snap!")
-  
 Programmierung Figur 1
+![screenshot snap](bilder/screenshot_snap_1.png "Screenshot von Snap!")
 </details>
 
 ### 24.08.2022
 Heute haben wir uns weiter mit "Snap!" beschäftigt, leider waren unsere Ergebnisse von der letzten Stunde, trotz speichern, nicht mehr auf dem PC, weshalb wir noch einmal von vorne anfangen mussten. Wir haben zwei Spielfiguren erstellt, uns damit beschäftigt wie man Hintergründe gestalten kann und verschiedene Arten von Sprüngen programmiert. Außerdem haben wir uns Gedanken über unser 2D-Spiel gemacht, zum Beispiel haben wir uns überlegt, dass es zwei verschiedene Landschaften geben soll mit verschieden schweren Leveln. Unsere Spielfiguren sollen in einem "Jump and Run" Spiel gegeneinander antreten, Hindernisse überwinden und am Ende am Ziel ankommen. Am Ende der Stunde haben wir uns dann mit dem richtigen Speichern von den erten Fortschritten unseres Projektes beschäftigt und hoffen, dass es diesmal geklappt hat.
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
-![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
-  
 Programmierung Figur 2
+![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_3.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_4.png "Screenshot von Snap!")
 </details>
