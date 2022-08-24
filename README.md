@@ -37,6 +37,7 @@ Heute haben wir uns weiter mit "Snap!" beschäftigt, leider waren unsere Ergebni
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 Programmierung Figur 2
+  
 ![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_3.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_4.png "Screenshot von Snap!")
