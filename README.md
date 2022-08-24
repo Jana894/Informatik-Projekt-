@@ -31,6 +31,9 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 </details>
 
 ### 24.08.2022
+![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
+
+![screenshot snap](bilder/screenshot_snap_3.png "Screenshot von Snap!")
 
 
 <h2 id="kapitel1">2. Idee</h2>
