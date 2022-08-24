@@ -28,6 +28,7 @@ Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm 
 ["Snap!"](https://snap.berkeley.edu/snap/snap.html)
 
 Programmierung Figur 1
+  
 ![screenshot snap](bilder/screenshot_snap_1.png "Screenshot von Snap!")
 </details>
 
@@ -36,6 +37,7 @@ Heute haben wir uns weiter mit "Snap!" beschäftigt, leider waren unsere Ergebni
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 Programmierung Figur 2
+  
 ![screenshot snap](bilder/screenshot_snap_2.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_3.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_4.png "Screenshot von Snap!")
