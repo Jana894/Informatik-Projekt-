@@ -44,7 +44,7 @@ Programmierung Figur 2
 </details>
 
 ### 30.08.2022
-Leider haben wir heute wieder einen leeren Account bei "Snap!" vorgefunden und dachten für einen kurzen Moment, dass wir wieder komplett von vorne anfangen müssen. Zum Glück haben wir dann aber nach langem Ausprobieren, unser Projekt öffnen und bearbeiten können, sodass nicht alles von vorne angefangen werden muss.
+Leider haben wir heute wieder einen leeren Account bei "Snap!" vorgefunden und dachten für einen kurzen Moment, dass wir wieder komplett von vorne anfangen müssen. Zum Glück haben wir dann aber nach langem Ausprobieren, unser Projekt öffnen und bearbeiten können, sodass nicht alles von vorne angefangen werden muss. Da wir ein "Jump and Run" Spiel gestalten möchten, haben wir heute recherchiert, wie wir die Hindernisse programmieren können, sodass die Figuren darauf landen und nicht hindurchgehen können. Dazu haben wir uns Beispiele aus dem Internet und das "Mirror-Game" angeschaut.
 
 
 <h2 id="kapitel1">2. Idee</h2>
