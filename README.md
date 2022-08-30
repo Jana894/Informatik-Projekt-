@@ -44,7 +44,7 @@ Programmierung Figur 2
 </details>
 
 ### 30.08.2022
-
+Leider haben wir heute wieder einen leeren Account bei "Snap!" vorgefunden und mussten feststellen, dass unser Projekt wieder nicht gespeichert wurde. 
 
 <h2 id="kapitel1">2. Idee</h2>
 Unsere Grundidee ist es, ein 2D-Spiel zu programmieren.
