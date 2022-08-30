@@ -43,8 +43,11 @@ Programmierung Figur 2
 ![screenshot snap](bilder/screenshot_snap_4.png "Screenshot von Snap!")
 </details>
 
+### 30.08.2022
+
 
 <h2 id="kapitel1">2. Idee</h2>
+Unsere Grundidee ist es, ein 2D-Spiel zu programmieren.
 
 <details id="Link"><summary>verworfene Ideen</summary>
 - Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
