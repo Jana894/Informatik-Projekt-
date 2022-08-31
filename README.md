@@ -1,12 +1,12 @@
 # Informatik-Projekt
 ### Inhaltsverzeichnis
 <li><a href="#kapitel1">1. Stundenprotokolle</a></h2></li>
-<li><a href="#kapitel1">2. Idee</a></h2></li>
+<li><a href="#kapitel1">2. Projekt</a></h2></li>
 
 <h2 id="kapitel1">1. Stundenprotokolle</h2>
 
 ### 16.08.2022 
-Heute haben wir erfahren, wie der Informatik-Unterricht aufgebaut und was unsere Aufgabe sein wird. Herr Buhl hat uns verschiedene Projekte von ehemaligen Schülern gezeigt, damit wir eine Vorstellung davon bekommen, was im Unterricht alles möglich ist. Anschließend haben wir uns mit Github vertraut gemacht und die ersten Profile wurden erstellt. 
+Heute war unsere erste Informatikstunde, in welcher wir erfahren haben, wie der Informatik-Unterricht aufgebaut sein wird und was unsere Aufgaben sein werden. Unsere Aufgaben werden sein, ein Projekt zu programmieren und ein Stundenprotokoll zu erstellen, welche dann benotet werden und zu einem großen Teil unsere Endnote bilden. Danach hat Herr Buhl uns verschiedene Projekte von ehemaligen SchülerInnen gezeigt, damit wir eine bessere und genauere Vorstellung davon bekommen, was im Informatikunterricht alles möglich ist und was man erreichen kann. Anschließend haben wir uns mit Github vertraut gemacht und die ersten Profile wurden erstellt, damit wir bei diesem Programm unsere Stundenprotokolle führen können und am Ende dort unser Projekt hinterlegen können. 
 
 ### 17.08.2022
 Heute haben wir den Umgang mit Github gelernt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und wie wir unseres gestalten können. Anschließend haben wir dann verschiedene Möglichkeiten für unser eigenes Stundenprotokoll ausprobiert und uns mit "Markdown" vertraut gemacht. Erste Gedanken zu unserem Projekt haben wir uns auch schon gemacht und möchten wahrscheinlich ein 2D-Spiel mit "Snap" zu gestalten. Was für eine Art von Spiel beziehungweise welchen Aufbau dieses haben soll, wissen wir jedoch noch nicht und werden in den nächsten Stunden daran arbeiten.
@@ -55,11 +55,11 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 ![screenshot snap](bilder/screenshot_snap_6.png "Screenshot von Snap!")
 </details>
 
-<h2 id="kapitel1">2. Idee</h2>
-Unsere Grundidee ist es, ein 2D-Spiel zu programmieren.
+<h2 id="kapitel1">2. Projekt</h2>
+Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss.
 
 <details id="Link"><summary>verworfene Ideen</summary>
-- Computerspiel: Labyrinth, wo Tiere sich gegenseitig finden müssen
+- 2D-Spiel: Labyrinth --> Tierpaare müssen sich gegenseitig finden 
 </details>
 
     
