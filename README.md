@@ -57,13 +57,17 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 
 ### 06.09.2022
 
+<details id="Link"><summary>Versuche mit "Snap!"</summary>
+
+![screenshot snap](bilder/screenshot_snap_7.png "Screenshot von Snap!")
+</details>
 
 ### 07.09.2022
 Heute haben wir bei Snap gelernt, eigene Variablen zu erstellen und haben die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen.  
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
-![screenshot snap](bilder/screenshot_snap_7.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
 </details>
 
 <h2 id="kapitel1">2. Projekt</h2>
