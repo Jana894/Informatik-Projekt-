@@ -56,6 +56,7 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 </details>
 
 ### 06.09.2022
+Heute haben wir uns damit beschäftigt, dass unsere Figur unter Hindernissen, durch ducken, durchlaufen kann. Hierfür haben wir ein neues "Costume" für unsere Figur erstellt und uns damit beschäftigt eigene Variablen zu erstellen.
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
@@ -63,7 +64,7 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 </details>
 
 ### 07.09.2022
-Heute haben wir bei Snap gelernt, eigene Variablen zu erstellen und haben die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen.  
+Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen.  
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
