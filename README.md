@@ -68,8 +68,11 @@ Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben w
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
+Gravitation und Verbesserung unseres Sprungs
+
 ![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
 
+Programmierung dafür, dass die Figur nicht von unten durch die Hindernisse durchspringen kann und von oben nicht durchfällt
   
 ![screenshot snap](bilder/screenshot_snap_9.png "Screenshot von Snap!")
 
