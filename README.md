@@ -64,11 +64,13 @@ Heute haben wir uns damit beschäftigt, dass unsere Figur sich unter Hindernisse
 </details>
 
 ### 07.09.2022
-Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen.  
+Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen. Außerdem haben wir uns eine Möglichkeit übrlegt, dass unsere Figur nicht von unten durch die Ebenen hindurchspringen kann, sondern durch die Gravitation wieder auf dem Boden landet. Hinzu kommt das Programmieren eines Startbildschirmes für unser "Jump and Run"-Spiel. Dabei haben wir programmiert, dass sich alle Figueren des Spiels außer der Startknopf "verstecken", wenn das Spiel gestartet wird. Leider haben wir es nicht geschafft, dass alle wieder erscheinen sobald der Startknopf gedrückt wird, weshalb wir die Programmierung erstmal mit der Leertaste vorgenommen haben, sodass sich der Startknopf "versteckt" und alle anderen Figuren erscheinen. Da Herr Buhl heute nicht da war, haben wir uns Hilfe bei dem "Mirror-Game" von ehemaligen Schülern gesucht, indem wir uns deren Projektseite inklusive Erklärungen angeschaut haben.
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 ![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_9.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_10.png "Screenshot von Snap!")
 </details>
 
 <h2 id="kapitel1">2. Projekt</h2>
