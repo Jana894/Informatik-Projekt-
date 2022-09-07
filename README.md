@@ -69,7 +69,12 @@ Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben w
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
 ![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
+
+  
 ![screenshot snap](bilder/screenshot_snap_9.png "Screenshot von Snap!")
+
+Programmierung für den Wechsel zwischen Startbildschirm und Spiel
+
 ![screenshot snap](bilder/screenshot_snap_10.png "Screenshot von Snap!")
 </details>
 
