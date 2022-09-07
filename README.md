@@ -72,7 +72,7 @@ Variable für unseren Sprung und Gravitation
 
 ![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
 
-Programmierung dafür, dass die Figur nicht von unten durch die Hindernisse durchspringen kann und von oben nicht durchfällt
+Programmierung dafür, dass die Figur nicht von unten durch die Hindernisse durchspringen kann und von oben nicht durchfällt und Festlegung der Startposition unsere Figur
   
 ![screenshot snap](bilder/screenshot_snap_9.png "Screenshot von Snap!")
 
