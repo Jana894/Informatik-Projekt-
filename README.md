@@ -68,7 +68,7 @@ Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben w
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
-Gravitation und Verbesserung unseres Sprungs
+Variable für unseren Sprung und Gravitation 
 
 ![screenshot snap](bilder/screenshot_snap_8.png "Screenshot von Snap!")
 
