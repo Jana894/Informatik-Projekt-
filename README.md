@@ -56,7 +56,7 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 </details>
 
 ### 06.09.2022
-Heute haben wir uns damit beschäftigt, dass unsere Figur unter Hindernissen, durch ducken, durchlaufen kann. Hierfür haben wir ein neues "Costume" für unsere Figur erstellt und uns damit beschäftigt eigene Variablen zu erstellen.
+Heute haben wir uns damit beschäftigt, dass unsere Figur sich unter Hindernissen hindurch ducken kann. Hierfür haben wir ein neues "Costume" für unsere Figur erstellt und uns damit beschäftigt eigene Variablen zu erstellen. Anschließend haben wir die Variable "ducken" erstellt und den dazugehörigen Befehlsblock erstellt. Unser Screenshot konnte leider über Firefox nicht in unserem "Read Me" hochgeladen werden, weshalb wir dann nochmal alles neu über Chrome machen mussten. Dort hat es dann aber zum Glück funktioniert und wir konnten den Screenshot hochladen und ins "Read Me" einfügen.
 
 <details id="Link"><summary>Versuche mit "Snap!"</summary>
 
