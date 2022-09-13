@@ -1,9 +1,15 @@
 # Informatik-Projekt
 ### Inhaltsverzeichnis
-<li><a href="#kapitel1">1. Stundenprotokolle</a></h2></li>
-<li><a href="#kapitel1">2. Projekt</a></h2></li>
+<li><a href="#kapitel1">1. Über uns</a></h2></li>
+<li><a href="#kapitel1">2. Stundenprotokolle</a></h2></li>
+<li><a href="#kapitel1">3. Projekt</a></h2></li>
+<li><a href="#kapitel1">4. Reflexion</a></h2></li>
 
-<h2 id="kapitel1">1. Stundenprotokolle</h2>
+<h2 id="kapitel1">1. Über uns</h2>
+
+Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Biologie- und Geschichtsprofil und hoffen, dass wir auch ohne jegliche Vorkenntnisse im Bezug auf Programmieren ein gutes Projekt gestalten und abliefern können.
+
+<h2 id="kapitel1">2. Stundenprotokolle</h2>
 
 ### 16.08.2022 
 Heute war unsere erste Informatikstunde, in welcher wir erfahren haben, wie der Informatik-Unterricht aufgebaut sein wird und was unsere Aufgaben sein werden. Unsere Aufgaben werden sein, ein Projekt zu programmieren und ein Stundenprotokoll zu erstellen, welche dann benotet werden und zu einem großen Teil unsere Endnote bilden. Danach hat Herr Buhl uns verschiedene Projekte von ehemaligen SchülerInnen gezeigt, damit wir eine bessere und genauere Vorstellung davon bekommen, was im Informatikunterricht alles möglich ist und was man erreichen kann. Anschließend haben wir uns mit Github vertraut gemacht und die ersten Profile wurden erstellt, damit wir bei diesem Programm unsere Stundenprotokolle führen können und am Ende dort unser Projekt hinterlegen können. 
@@ -93,11 +99,12 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 ### 21.09.2022
 Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
 
-<h2 id="kapitel1">2. Projekt</h2>
+<h2 id="kapitel1">3. Projekt</h2>
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss.
 
 <details id="Link"><summary>verworfene Ideen</summary>
 - 2D-Spiel: Labyrinth --> Tierpaare müssen sich gegenseitig finden 
 </details>
 
-    
+<h2 id="kapitel1">4. Reflexion</h2> 
+Rückblickend lässt sich sagen, dass wir  sehr gut mit dem Programm "Snap!" zurechtgekommen sind und es Spaß gemacht hat, etwas Eigenes zu programmieren und am Ende auch zusehen, dass man etwas geschaffen hat.
