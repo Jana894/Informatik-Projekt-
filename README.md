@@ -29,7 +29,7 @@ Tabelle erstellen:
 
 ### 23.08.2022
 Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm zu orientieren und um erste Ideen zusammeln, wie wir unser 2D-Spiel umsetzen können. Damit unsere Figur sich bewegen kann, haben wir festgelegt, welche Tasten gedrückt werden müssen, damit sie sich nach oben, unten, rechts oder links bewegt. Um immer wieder auf unser Projekt zugreifen zu können, haben wir uns einen Account bei "Snap!" erstellt, unser Projekt gespeichert und mit der Hilfe von Herrn Buhl unseren ersten Screenshot von unseren Fortschritten in das Stundenprotokoll eingefügt. 
-<details id="Link"><summary>Versuche mit "Snap!"</summary>
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 ["Snap!"](https://snap.berkeley.edu/snap/snap.html)
 
@@ -40,7 +40,8 @@ Programmierung Figur 1
 
 ### 24.08.2022
 Heute haben wir uns weiter mit "Snap!" beschäftigt, leider waren unsere Ergebnisse von der letzten Stunde, trotz speichern, nicht mehr auf dem PC, weshalb wir noch einmal von vorne anfangen mussten. Wir haben noch eine zweite Spielfigur erstellt, uns damit beschäftigt wie man Hintergründe gestalten kann und verschiedene Arten von Sprüngen programmiert. Außerdem haben wir uns Gedanken über unser 2D-Spiel gemacht, zum Beispiel haben wir uns überlegt, dass es zwei verschiedene Landschaften geben soll mit verschieden schweren Leveln. Unsere Spielfiguren sollen in einem "Jump and Run" Spiel gegeneinander antreten, Hindernisse überwinden und am Ende am Ziel ankommen. Am Ende der Stunde haben wir uns dann mit dem richtigen Speichern von den erten Fortschritten unseres Projektes beschäftigt und hoffen, dass es diesmal geklappt hat und wir nicht noch einmal von vorne anfangen müssen.
-<details id="Link"><summary>Versuche mit "Snap!"</summary>
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 Programmierung Figur 2
   
@@ -55,7 +56,7 @@ Leider haben wir heute wieder einen leeren Account bei "Snap!" vorgefunden und d
 ### 31.08.2022
 Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere Figuren zu gestalten, damit sie nicht aus dem Bildschirm fallen, sondern die ganze Zeit zu sehen sind. Im Internet haben wir recherchiert, jedoch keine hilfreichen Informationen gefunden, weshalb Herr Buhl uns als Hilfestellung ein Projekt mit einem Abenteuer Spiel rausgesucht hat. Mit Hilfe des Abenteuerspielshätten wir eventuell einen Ansatz bekommen können, wie unsere Figur nicht mehr aus dem Bild fallen kann - unsere zweite Figur haben wir erst einmal gelöscht, damit wir uns auf eine Figur konzentrieren können und das Spiel fertig bekommen und am Ende, wenn wir noch Zeit haben, dann noch eine zweite Figur hinzufügen und programmieren können. Leider hat auch die Programmierung des Abenteuerspiels bei uns nicht funktioniert, weshalb wir in dem Aspekt immer noch nicht weiter gekommen sind. Dank der Hilfe von Juliane haben wir es am Ende der Stunde dann doch noch geschafft, unsere Figur vom festen Boden auf ein Hindernis springen zu lassen, ohne dass sie durch das Hindernis durchfällt oder aus dem Bild verschwindet, zwar auf eine andere und womöglich kompliziertere Art und Weise, aber eine die für uns funktioniert. Nun erstellen wir unsere Hindernisse als Spielfiguren, die sich aber nicht bewegen, sondern in den Hintergrund integriert sind.
 
-<details id="Link"><summary>Versuche mit "Snap!"</summary>
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 ![screenshot snap](bilder/screenshot_snap_5.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_6.png "Screenshot von Snap!")
@@ -64,7 +65,7 @@ Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere F
 ### 06.09.2022
 Heute haben wir uns damit beschäftigt, dass unsere Figur sich unter Hindernissen hindurch ducken kann. Hierfür haben wir ein neues "Costume" für unsere Figur erstellt und uns damit beschäftigt eigene Variablen zu erstellen. Anschließend haben wir die Variable "ducken" erstellt und den dazugehörigen Befehlsblock erstellt. Unser Screenshot konnte leider über Firefox nicht in unserem "Read Me" hochgeladen werden, weshalb wir dann nochmal alles neu über Chrome machen mussten. Dort hat es dann aber zum Glück funktioniert und wir konnten den Screenshot hochladen und ins "Read Me" einfügen.
 
-<details id="Link"><summary>Versuche mit "Snap!"</summary>
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 ![screenshot snap](bilder/screenshot_snap_7.png "Screenshot von Snap!")
 </details>
@@ -72,7 +73,7 @@ Heute haben wir uns damit beschäftigt, dass unsere Figur sich unter Hindernisse
 ### 07.09.2022
 Heute haben wir bei Snap die Variable "Sprung an" kreiert. Anschließend haben wir uns noch mit den Erstellen eines Befehles für Gravitation beschäftigt und es geschafft dies umzusetzen. Außerdem haben wir uns eine Möglichkeit übrlegt, dass unsere Figur nicht von unten durch die Ebenen hindurchspringen kann, sondern durch die Gravitation wieder auf dem Boden landet. Hinzu kommt das Programmieren eines Startbildschirmes für unser "Jump and Run"-Spiel. Dabei haben wir programmiert, dass sich alle Figueren des Spiels außer der Startknopf "verstecken", wenn das Spiel gestartet wird. Leider haben wir es nicht geschafft, dass alle wieder erscheinen sobald der Startknopf gedrückt wird, weshalb wir die Programmierung erstmal mit der Leertaste vorgenommen haben, sodass sich der Startknopf "versteckt" und alle anderen Figuren erscheinen. Da Herr Buhl heute nicht da war, haben wir uns Hilfe bei dem "Mirror-Game" von ehemaligen Schülern gesucht, indem wir uns deren Projektseite inklusive Erklärungen angeschaut haben.
 
-<details id="Link"><summary>Versuche mit "Snap!"</summary>
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 Variable für unseren Sprung und Gravitation 
 
@@ -89,6 +90,11 @@ Programmierung für den Wechsel zwischen Startbildschirm und Spiel
 
 ### 13.09.2022
 Heute war Bente krank, weshalb Jana alleine an unserem Projekt weitergearbeitet hat.
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+  
+![screenshot snap](bilder/screenshot_snap_11.png "Screenshot von Snap!")
+</details>
 
 ### 14.09.2022
 
