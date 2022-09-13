@@ -106,6 +106,11 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
 
 <h2 id="kapitel1">3. Projekt</h2>
+
+### Programm
+![logo snap](bilder/logo_snap.png "Screenshot von Snap!")
+Für unser Prjekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger gut geeignet ist.
+
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss.
 
 <details id="Link"><summary>verworfene Ideen</summary>
