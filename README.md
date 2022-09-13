@@ -89,7 +89,7 @@ Programmierung für den Wechsel zwischen Startbildschirm und Spiel
 </details>
 
 ### 13.09.2022
-Heute war Bente krank, weshalb Jana alleine an unserem Projekt weitergearbeitet hat.
+Heute war Bente krank, weshalb Jana alleine die Kommentare an unsere Befehlsblöcke hinzugefügt hat. Ebenso wurde heute an dem Layout unseres Stundenprotokolls gearbeitet und schonmal angefangen, unsere Unterüberschrift "Projekt" anzulegen und mit Inhalt zufüllen, damit man in der nächsten Stunde hoffentlich zusammen an unserem Projekt und den kleinen Problemen, die es noch zulösen gilt, arbeiten. Hierbei war es für Jana wichtig, dass Fortschritte zu zweit erzielt werden, da es immer noch eine Gruppenarbeit ist und jedes Mitglied der Gruppe weiß, wie welche Programmierung zustande kam und welche Auswirkungen sie nun auf unser Spiel hat. 
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
   
