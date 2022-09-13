@@ -81,6 +81,18 @@ Programmierung für den Wechsel zwischen Startbildschirm und Spiel
 ![screenshot snap](bilder/screenshot_snap_10.png "Screenshot von Snap!")
 </details>
 
+### 13.09.2022
+Heute war Bente krank, weshalb Jana alleine an unserem Projekt weitergearbeitet hat.
+
+### 14.09.2022
+
+
+### 20.09.2022
+Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
+
+### 21.09.2022
+Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
+
 <h2 id="kapitel1">2. Projekt</h2>
 Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss.
 
