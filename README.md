@@ -155,5 +155,8 @@ Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur i
 - 2D-Spiel: Irrgarten --> farbige Kugel müssen durch ein Wirrwarr von Wegen den richtigen Weg in das Rohr ihrer eigenen Farbe finden
 </details>
 
+### Ergebnis
+Unser 2D-Spiel ist ein "Jump and Run"-Spiel geworden.
+
 <h2 id="kapitel4">4. Reflexion</h2> 
 Rückblickend lässt sich sagen, dass wir  sehr gut mit dem Programm "Snap!" zurechtgekommen sind und es Spaß gemacht hat, etwas Eigenes zu programmieren und am Ende auch zusehen, dass man etwas geschaffen hat.
