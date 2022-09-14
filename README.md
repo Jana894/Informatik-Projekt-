@@ -4,9 +4,9 @@
 <li><a href="#kapitel2">2. Stundenprotokolle</a></h2></li>
 <details id="Link"><summary>Genauer</summary>
     
-  <li><a href="#kapitel2">16.08.2022</a></h3></li>
-  <li><a href="#kapitel2">17.08.2022</a></h3></li>
-  <li><a href="#kapitel2">23.08.2022</a></h3></li>
+  <li><a href="#kapitel2.1">16.08.2022</a></h3></li>
+  <li><a href="#kapitel2.1">17.08.2022</a></h3></li>
+  <li><a href="#kapitel2.1">23.08.2022</a></h3></li>
   <li><a href="#kapitel2">24.08.2022</a></h3></li>
   <li><a href="#kapitel2">30.08.2022</a></h3></li>
   <li><a href="#kapitel2">31.08.2022</a></h3></li>
@@ -38,10 +38,10 @@ Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Bi
 
 <h2 id="kapitel2">2. Stundenprotokolle</h2>
 
-<h3 id="kapitel2">16.08.2022</h3>
+<h3 id="kapitel2.1">16.08.2022</h3>
 Heute war unsere erste Informatikstunde, in welcher wir erfahren haben, wie der Informatik-Unterricht aufgebaut sein wird und was unsere Aufgaben sein werden. Unsere Aufgaben werden sein, ein Projekt zu programmieren und ein Stundenprotokoll zu erstellen, welche dann benotet werden und zu einem großen Teil unsere Endnote bilden. Danach hat Herr Buhl uns verschiedene Projekte von ehemaligen SchülerInnen gezeigt, damit wir eine bessere und genauere Vorstellung davon bekommen, was im Informatikunterricht alles möglich ist und was man erreichen kann. Anschließend haben wir uns mit Github vertraut gemacht und die ersten Profile wurden erstellt, damit wir bei diesem Programm unsere Stundenprotokolle führen können und am Ende dort unser Projekt hinterlegen können. 
 
-<h3 id="kapitel2">17.08.2022</h3>
+<h3 id="kapitel2.1">17.08.2022</h3>
 Heute haben wir uns mit dem Umgang mit "Github" beschäftigt und uns dazu viele verschiedene Stundentagebücher von ehemaligen Schülern angeschaut, um zugucken, welches Design uns am besten gefällt und wie wir unser eigenes Stundenprotokoll und unsere eigene Projektseite gestalten können. Anschließend haben wir dann verschiedene Möglichkeiten für das Layout unseres eigenen Stundenprotokolles ausprobiert und uns zusätzlich mit "Markdown" vertraut gemacht, um eine Vielfalt in unsere Protokolle zubringen. Erste Gedanken zu unserem Projekt haben wir uns ebenfalls schon gemacht und sind zu dem Schluss gekommen, dass wir wahrscheinlich ein 2D-Spiel mit "Snap!" gestalten möchten. Was für eine Art von Spiel beziehungweise welchen Aufbau dieses haben soll, wissen wir jedoch noch nicht und werden in den nächsten Stunden daran arbeiten.
 <details id="Link"><summary>Versuche mit Markdown</summary>
 
@@ -54,7 +54,7 @@ Tabelle erstellen:
 | mit     | Markdown  |
 </details>
 
-<h3 id="kapitel2">23.08.2022</h3>
+<h3 id="kapitel2.1">23.08.2022</h3>
 Heute haben wir erste Sachen mit "Snap!" ausprobiert, um uns in diesem Programm zu orientieren und um erste Ideen zusammeln, wie wir unser 2D-Spiel umsetzen können. Damit unsere Figur sich bewegen kann, haben wir festgelegt, welche Tasten gedrückt werden müssen, damit sie sich nach oben, unten, rechts oder links bewegt. Um immer wieder auf unser Projekt zugreifen zu können, haben wir uns einen Account bei "Snap!" erstellt, unser Projekt gespeichert und mit der Hilfe von Herrn Buhl unseren ersten Screenshot von unseren Fortschritten in das Stundenprotokoll eingefügt. 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
