@@ -2,6 +2,7 @@
 ### Inhaltsverzeichnis
 <li><a href="#kapitel1">1. Über uns</a></h2></li>
 <li><a href="#kapitel2">2. Stundenprotokolle</a></h2></li>
+...<li><a href="#kapitel2">16.08.2022</a></h3></li>
 <li><a href="#kapitel3">3. Projekt</a></h2></li>
 <li><a href="#kapitel4">4. Reflexion</a></h2></li>
 
@@ -11,7 +12,7 @@ Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Bi
 
 <h2 id="kapitel2">2. Stundenprotokolle</h2>
 
-### 16.08.2022
+<h3 id="kapitel2">16.08.2022</h3>
 Heute war unsere erste Informatikstunde, in welcher wir erfahren haben, wie der Informatik-Unterricht aufgebaut sein wird und was unsere Aufgaben sein werden. Unsere Aufgaben werden sein, ein Projekt zu programmieren und ein Stundenprotokoll zu erstellen, welche dann benotet werden und zu einem großen Teil unsere Endnote bilden. Danach hat Herr Buhl uns verschiedene Projekte von ehemaligen SchülerInnen gezeigt, damit wir eine bessere und genauere Vorstellung davon bekommen, was im Informatikunterricht alles möglich ist und was man erreichen kann. Anschließend haben wir uns mit Github vertraut gemacht und die ersten Profile wurden erstellt, damit wir bei diesem Programm unsere Stundenprotokolle führen können und am Ende dort unser Projekt hinterlegen können. 
 
 ### 17.08.2022
