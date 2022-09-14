@@ -177,7 +177,7 @@ Heute haben wir
 Heute haben wir
 
 <h3 id="kapitel2.16">05.10.2022</h3>
-Heute haben wir
+Heute war die letzte Informatikstunde vor den Herbstferien und wir haben
 
 <h2 id="kapitel3">3. Projekt</h2>
 
