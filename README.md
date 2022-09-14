@@ -97,6 +97,7 @@ Heute war Bente krank, weshalb Jana alleine die Kommentare an unsere Befehlsblö
 </details>
 
 ### 14.09.2022
+Heute war Bente immer noch krank und Jana hat sich mit Gimp vertraut gemacht.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
   
