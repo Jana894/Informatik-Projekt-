@@ -4,25 +4,27 @@
 <li><a href="#kapitel2">2. Stundenprotokolle</a></h2></li>
 <details id="Link"><summary>Genauer</summary>
     
-<li><a href="#kapitel2">16.08.2022</a></h3></li>
-<li><a href="#kapitel2">17.08.2022</a></h3></li>
-<li><a href="#kapitel2">23.08.2022</a></h3></li>
-<li><a href="#kapitel2">24.08.2022</a></h3></li>
-<li><a href="#kapitel2">30.08.2022</a></h3></li>
-<li><a href="#kapitel2">31.08.2022</a></h3></li>
-<li><a href="#kapitel2">06.09.2022</a></h3></li>
-<li><a href="#kapitel2">07.09.2022</a></h3></li>
-<li><a href="#kapitel2">13.09.2022</a></h3></li>
-<li><a href="#kapitel2">14.09.2022</a></h3></li>
-<li><a href="#kapitel2">20.09.2022</a></h3></li>
-<li><a href="#kapitel2">21.09.2022</a></h3></li>
-<li><a href="#kapitel2">27.09.2022</a></h3></li>
-<li><a href="#kapitel2">28.09.2022</a></h3></li>
-<li><a href="#kapitel2">04.10.2022</a></h3></li>
-<li><a href="#kapitel2">05.10.2022</a></h3></li>
+    <li><a href="#kapitel2">16.08.2022</a></h3></li>
+    <li><a href="#kapitel2">17.08.2022</a></h3></li>
+    <li><a href="#kapitel2">23.08.2022</a></h3></li>
+    <li><a href="#kapitel2">24.08.2022</a></h3></li>
+    <li><a href="#kapitel2">30.08.2022</a></h3></li>
+    <li><a href="#kapitel2">31.08.2022</a></h3></li>
+    <li><a href="#kapitel2">06.09.2022</a></h3></li>
+    <li><a href="#kapitel2">07.09.2022</a></h3></li>
+    <li><a href="#kapitel2">13.09.2022</a></h3></li>
+    <li><a href="#kapitel2">14.09.2022</a></h3></li>
+    <li><a href="#kapitel2">20.09.2022</a></h3></li>
+    <li><a href="#kapitel2">21.09.2022</a></h3></li>
+    <li><a href="#kapitel2">27.09.2022</a></h3></li>
+    <li><a href="#kapitel2">28.09.2022</a></h3></li>
+    <li><a href="#kapitel2">04.10.2022</a></h3></li>
+    <li><a href="#kapitel2">05.10.2022</a></h3></li>
 </details>
 
 <li><a href="#kapitel3">3. Projekt</a></h2></li>
+<details id="Link"><summary>Genauer</summary>
+    
 <li><a href="#kapitel4">4. Reflexion</a></h2></li>
 
 <h2 id="kapitel1">1. Über uns</h2>
