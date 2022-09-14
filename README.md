@@ -1,9 +1,9 @@
 # Informatik-Projekt
 ### Inhaltsverzeichnis
 <li><a href="#kapitel1">1. Über uns</a></h2></li>
-<li><a href="#kapitel1">2. Stundenprotokolle</a></h2></li>
-<li><a href="#kapitel1">3. Projekt</a></h2></li>
-<li><a href="#kapitel1">4. Reflexion</a></h2></li>
+<li><a href="#kapitel2">2. Stundenprotokolle</a></h2></li>
+<li><a href="#kapitel3">3. Projekt</a></h2></li>
+<li><a href="#kapitel4">4. Reflexion</a></h2></li>
 
 <h2 id="kapitel1">1. Über uns</h2>
 
