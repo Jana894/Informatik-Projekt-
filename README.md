@@ -101,7 +101,11 @@ Heute war Bente immer noch krank und Jana hat sich mit Gimp vertraut gemacht.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
   
+Programmierung unserer "Stage"
+
 ![screenshot snap](bilder/screenshot_snap_12.png "Screenshot von Snap!")
+
+
 ![screenshot snap](bilder/screenshot_snap_13.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_14.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_15.png "Screenshot von Snap!")
