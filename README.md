@@ -98,6 +98,17 @@ Heute war Bente krank, weshalb Jana alleine die Kommentare an unsere Befehlsblö
 
 ### 14.09.2022
 
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+  
+![screenshot snap](bilder/screenshot_snap_12.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_13.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_14.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_15.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_16.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_17.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_18.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_19.png "Screenshot von Snap!")
+</details>
 
 ### 20.09.2022
 Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
