@@ -105,13 +105,32 @@ Programmierung unserer "Stage"
 
 ![screenshot snap](bilder/screenshot_snap_12.png "Screenshot von Snap!")
 
-
+Startbildschirm mit "Gimp" gestaltet
+  
 ![screenshot snap](bilder/screenshot_snap_13.png "Screenshot von Snap!")
+  
+Levelauswahhl mit "Gimp" gestaltet
+  
 ![screenshot snap](bilder/screenshot_snap_14.png "Screenshot von Snap!")
+  
+Programmierung Startknopf
+  
 ![screenshot snap](bilder/screenshot_snap_15.png "Screenshot von Snap!")
+  
+Programmierung Level 1 Button
+  
 ![screenshot snap](bilder/screenshot_snap_16.png "Screenshot von Snap!")
+  
+Programmierung Level 2 Button
+  
 ![screenshot snap](bilder/screenshot_snap_17.png "Screenshot von Snap!")
+  
+Programmierung Level 3 Button
+  
 ![screenshot snap](bilder/screenshot_snap_18.png "Screenshot von Snap!")
+  
+Programmierung Level 4 Button
+  
 ![screenshot snap](bilder/screenshot_snap_19.png "Screenshot von Snap!")
 </details>
 
