@@ -4,8 +4,8 @@
 <li><a href="#kapitel2">2. Stundenprotokolle</a></h2></li>
 <details id="Link"><summary>Genauer</summary>
     
-    <li><a href="#kapitel2">16.08.2022</a></h3></li>
-    <li><a href="#kapitel2">17.08.2022</a></h3></li>
+  <li><a href="#kapitel2">16.08.2022</a></h3></li>
+  <li><a href="#kapitel2">17.08.2022</a></h3></li>
     <li><a href="#kapitel2">23.08.2022</a></h3></li>
     <li><a href="#kapitel2">24.08.2022</a></h3></li>
     <li><a href="#kapitel2">30.08.2022</a></h3></li>
