@@ -144,6 +144,7 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 
 ### Programm
 ![logo snap](bilder/logo_snap.png "Screenshot von Snap!")
+
 Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger gut geeignet und einfach zu verstehen ist. Bei "Snap!" wird keine Programmiersprache genutzt, sondern Bausteine, auf denen in Englisch steht, was passieren soll, wenn sie zusammengesetzt werden. Für Anfänger ist gerade dies von Vorteil, da man sich nicht erst in die Programmiersprache einarbeiten muss, sondern direkt anfangen kann und die Herausforderung "nur" ist, die Bausteine richtig zu kombinieren, um den gewünschten Befehl auszuführen.
 
 ### Idee
