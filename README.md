@@ -97,7 +97,7 @@ Heute war Bente krank, weshalb Jana alleine die Kommentare an unsere Befehlsblö
 </details>
 
 ### 14.09.2022
-Heute war Bente immer noch krank und Jana hat sich mit Gimp vertraut gemacht.
+Heute war Bente immer noch krank und Jana hat alleine weiter an dem Projekt gearbeitet. Zuerst hat Jana sich mit "Gimp" vertraut gemacht, einem Programm, mit dem man Hintergründe gestalten und dann bei "Snap!" als "Stage" einfügen kann. Dafür hat Herr Buhl ihr erklärt, wie das Programm funktioniert und welche Funktionen es gibt. Anschließend wurde nun endlich das Problem mit dem Startknopf gelöst, sodass man nun mit dem Mauscurser draufklicken kann und sich die "Stage" ändert. Dementsprechend musste dann die "Stage" umprogrammiert werden, damit man nun auch durch klicken die Hintergründe wechseln kann. Außerdem wurde auch noch die "Stage" Levelauswahl mit "Gimp" gestaltet und die 4 Level "Sprites" entsprechend des Startknopfes programmiert. Die 4 Level "Stages" wurden ebenfalls angelegt, jedoch ist bisher erst das erste mit Hindernissen ausgestattet. Hier wurden dann auch noch die Hindernisse optimiert, sodass sie die gleiche Farbe haben und die obere und untere Ebene nun genau übereinander liegen. Dadurch, dass heute eine Doppelstunde war, musste Jana in "Snap!" weiterarbeiten und den Plan von gestern, keinen Fortschritt ohne Bente zu erzielen, da es eine Gruppenarbeit ist, verwerfen und an dem Projekt weiterarbeiten. Am Ende der Doppelstunde wurde dann noch im "ReadMe" weitergeschrieben und an dem Unterpunkt Projekt weitergearbeitet.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
   
@@ -144,12 +144,14 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 
 ### Programm
 ![logo snap](bilder/logo_snap.png "Screenshot von Snap!")
-Für unser Prjekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger gut geeignet ist.
+Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger gut geeignet und einfach zu verstehen ist. Bei "Snap!" wird keine Programmiersprache genutzt, sondern Bausteine, auf denen in Englisch steht, was passieren soll, wenn sie zusammengesetzt werden. Für Anfänger ist gerade dies von Vorteil, da man sich nicht erst in die Programmiersprache einarbeiten muss, sondern direkt anfangen kann und die Herausforderung "nur" ist, die Bausteine richtig zu kombinieren, um den gewünschten Befehl auszuführen.
 
-Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss.
+### Idee
+Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
 
 <details id="Link"><summary>verworfene Ideen</summary>
 - 2D-Spiel: Labyrinth --> Tierpaare müssen sich gegenseitig finden 
+- 2D-Spiel: Irrgarten --> farbige Kugel müssen durch ein Wirrwarr von Wegen den richtigen Weg in das Rohr ihrer eigenen Farbe finden
 </details>
 
 <h2 id="kapitel1">4. Reflexion</h2> 
