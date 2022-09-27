@@ -168,7 +168,7 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
 
 <h3 id="kapitel2.13">27.09.2022</h3>
-Heute haben wir
+Heute habe ich Bente gezeigt und erklärt, was die letzten Stunden gemacht wurde, in denen sie krank war. Anschließend haben wir eine 3. Ebene erstellt und versucht zu programmieren, dass unser Level über mehrere Stages geht, jedoch noch keine Lösung gefunden, wie wir es schaffen können. 
 
 <h3 id="kapitel2.14">28.09.2022</h3>
 Heute haben wir
