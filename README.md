@@ -168,10 +168,11 @@ Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag
 Heute konnten wir leider nicht an unserem Projekt weiterarbeiten, da wir in Prag auf Studienfahrt sind.
 
 <h3 id="kapitel2.13">27.09.2022</h3>
-Heute habe ich Bente gezeigt und erklärt, was die letzten Stunden gemacht wurde, in denen sie krank war. Anschließend haben wir eine 3. Ebene erstellt und versucht zu programmieren, dass unser Level über mehrere Stages geht, jedoch noch keine Lösung gefunden, wie wir es schaffen können. 
+Heute hat Jana Bente gezeigt und erklärt, was die letzten Stunden gemacht wurde, in denen sie krank war. Anschließend haben wir zusammen eine 3. Ebene für unser erstes Level erstellt und versucht zu programmieren, dass unser Level über mehrere "Stage-Costumes" geht, jedoch noch keine Lösung gefunden, wie wir es schaffen können. Mit diesem Problem gehen wir in die morgige Stunde und hoffen, eine Lösung für dieses zu finden. 
 
 <h3 id="kapitel2.14">28.09.2022</h3>
-Heute haben wir
+Heute haben wir unser Problem, welches gestern aufgetreten ist gelöst bekommen - in einem Level das "Stage-Costume" zuändern, wenn die Figur das Ende des Bildschirmes erreicht. Hinzukommt, dass wir noch 3 weitere Ebenen erstellt und programmiert haben, genauso wie eine Zielflagge. Wenn diese von der Figur berührt wird, wechselt das "Stage-Costume" zu "Level 1 geschafft!" und der Spieler kann wählen, ob er zurück zur Levelauswahl möchte oder direkt zum näcsten Level springt. Auch diese Funktion haben wir programmiert und wieder die Hintergründe mit "Gimp" gestaltet. Leider haben wir es zeitlich nicht mehr geschafft, auch noch "nächstes Level" fertig zu programmieren. Für die Woche vor den Ferien haben wir uns vorgenommen, dies fertigzustellen unnd eventuell ein zweites Level zugestalten, damit wir nach den Ferien mit Level 3 und 4, sowie der Gestaltungung unserer Figur und des Hintergrundes der einzelnen Level weitermachen können.
+
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 "Level 1 geschafft!" mit "Gimp" gestaltet
@@ -187,6 +188,7 @@ Heute haben wir
 ![screenshot snap](bilder/gimp_weiter-zum-nächsten-Level.png "Screenshot von Gimp")
   
 Programmierung unserer "Stage"
+    
 ![screenshot snap](bilder/screenshot_snap_20.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_21.png "Screenshot von Snap!")
 
