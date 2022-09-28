@@ -186,19 +186,20 @@ Heute haben wir
   
 ![screenshot snap](bilder/gimp_weiter-zum-nächsten-Level.png "Screenshot von Gimp")
   
-Fertigstellung Level 1
-  
-![screenshot snap](bilder/screenshot_snap_20.png "Screenshot von Snap!")
-  
 Programmierung unserer "Stage"
-  
+![screenshot snap](bilder/screenshot_snap_20.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_21.png "Screenshot von Snap!")
+
+Fertigstellung Level 1
+    
 ![screenshot snap](bilder/screenshot_snap_22.png "Screenshot von Snap!")
-  
+    
 Programmierung "zurück zur Levelauswahl"
   
 ![screenshot snap](bilder/screenshot_snap_23.png "Screenshot von Snap!")
-
+    
+Programmierung "nächstes Level"
+    
 ![screenshot snap](bilder/screenshot_snap_24.png "Screenshot von Snap!")
 </details>
 
