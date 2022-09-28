@@ -172,6 +172,35 @@ Heute habe ich Bente gezeigt und erklärt, was die letzten Stunden gemacht wurde
 
 <h3 id="kapitel2.14">28.09.2022</h3>
 Heute haben wir
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+"Level 1 geschafft!" mit "Gimp" gestaltet
+  
+![screenshot snap](bilder/gimp_Level-1-geschafft.png "Screenshot von Gimp")
+  
+"zurück zur Levelauswahl" mit "Gimp" gestaltet
+  
+![screenshot snap](bilder/gimp_zurück-zur-Levelauswahl.png "Screenshot von Gimp")
+  
+"weiter zum nächsten Level" mit "Gimp" gestaltet
+  
+![screenshot snap](bilder/gimp_weiter-zum-nächsten-Level.png "Screenshot von Gimp")
+  
+Fertigstellung Level 1
+  
+![screenshot snap](bilder/screenshot_snap_20.png "Screenshot von Snap!")
+  
+Programmierung unserer "Stage"
+  
+![screenshot snap](bilder/screenshot_snap_21.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_22.png "Screenshot von Snap!")
+  
+Programmierung "zurück zur Levelauswahl"
+  
+![screenshot snap](bilder/screenshot_snap_23.png "Screenshot von Snap!")
+
+![screenshot snap](bilder/screenshot_snap_24.png "Screenshot von Snap!")
+</details>
 
 <h3 id="kapitel2.15">04.10.2022</h3>
 Heute haben wir
