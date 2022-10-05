@@ -209,7 +209,7 @@ Programmierung "nächstes Level"
 Die heutige Informatikstunde ist leider ausgefallen und da Jana noch eine Englischklausur geschrieben hat, haben wir nicht an unserem Projekt weitergearbeitet.
 
 <h3 id="kapitel2.16">05.10.2022</h3>
-Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit der Programmierung unseres zweiten Levels beschäftigt und dieses auch beendet. Hierfür haben wir uns ein neues Element ausgedacht - Feuer -, wenn unsere Figur dieses berührt muss sie das Level von vorne beginnen.
+Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit der Gestaltung unseres zweiten Levels beschäftigt und dieses auch beendet. Hierfür wurden die Ebenen 9,10,11,12 und 13 programmiert, sowie die Zielflagge 2. Auch wenn diese brührt wird, wechselt die Stage vom "Level 2.2" zu "Level 2 geschafft!", ähnlich wie in Level 1. Für unser zweites Level haben wir uns ein neues Element ausgedacht -Feuer-, wenn unsere Figur dieses berührt muss sie das Level von vorne beginnen, die Programmierung hat uns dann etwas mehr Zeit gekostet, aber auch das haben wir hinbekommen.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
