@@ -222,10 +222,10 @@ Fertigstellung Level 2
 
 Gestaltung "Level [] geschafft!" einheitlich mit "Gimp" (Jana)
 
-![screenshot gimp](bilder/gimp_Level_1_geschafft.png "Screenshot von Gimp")
-![screenshot gimp](bilder/gimp_Level_2_geschafft.png "Screenshot von Gimp")
-![screenshot gimp](bilder/gimp_Level_3_geschafft.png "Screenshot von Gimp")
-![screenshot gimp](bilder/gimp_Level_4_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_level_1_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_level_2_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_level_3_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_level_4_geschafft.png "Screenshot von Gimp")
 </details>
 
 <h2 id="kapitel3">3. Projekt</h2>
