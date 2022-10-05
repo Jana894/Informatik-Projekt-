@@ -206,10 +206,17 @@ Programmierung "nächstes Level"
 </details>
 
 <h3 id="kapitel2.15">04.10.2022</h3>
-Heute haben wir
+Die heutige Informatikstunde ist leider ausgefallen und da Jana noch eine Englischklausur geschrieben hat, haben wir nicht an unserem Projekt weitergearbeitet.
 
 <h3 id="kapitel2.16">05.10.2022</h3>
-Heute war die letzte Informatikstunde vor den Herbstferien und wir haben
+Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit der Programmierung unseres zweiten Levels beschäftigt und dieses auch beendet. Hierfür haben wir uns ein neues Element ausgedacht - Feuer -, wenn unsere Figur dieses berührt muss sie das Level von vorne beginnen.
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Fertigstellung Level 2
+    
+![screenshot snap](bilder/screenshot_snap_25.png "Screenshot von Snap!")
+</details>
 
 <h2 id="kapitel3">3. Projekt</h2>
 
