@@ -177,15 +177,15 @@ Heute haben wir unser Problem, welches gestern aufgetreten ist gelöst bekommen 
 
 "Level 1 geschafft!" mit "Gimp" gestaltet
   
-![screenshot snap](bilder/gimp_Level-1-geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_Level-1-geschafft.png "Screenshot von Gimp")
   
 "zurück zur Levelauswahl" mit "Gimp" gestaltet
   
-![screenshot snap](bilder/gimp_zurück-zur-Levelauswahl.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_zurück-zur-Levelauswahl.png "Screenshot von Gimp")
   
 "weiter zum nächsten Level" mit "Gimp" gestaltet
   
-![screenshot snap](bilder/gimp_weiter-zum-nächsten-Level.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_weiter-zum-nächsten-Level.png "Screenshot von Gimp")
   
 Programmierung unserer "Stage"
     
@@ -216,6 +216,16 @@ Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit
 Fertigstellung Level 2
     
 ![screenshot snap](bilder/screenshot_snap_25.png "Screenshot von Snap!")
+</details>
+
+<details id="Link"><summary>Nacharbeitung zu Hause</summary>
+
+Gestaltung "Level [] geschafft!" einheitlich mit "Gimp" (Jana)
+
+![screenshot gimp](bilder/gimp_Level_1_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_Level_2_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_Level_3_geschafft.png "Screenshot von Gimp")
+![screenshot gimp](bilder/gimp_Level_4_geschafft.png "Screenshot von Gimp")
 </details>
 
 <h2 id="kapitel3">3. Projekt</h2>
