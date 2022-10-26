@@ -27,7 +27,7 @@
 <li><a href="#kapitel3">3. Projekt</a></h2></li>
 <details id="Link"><summary>Genauer</summary>
     
-    (https://github.com/Jana894/Projektseite.git)
+[Projektseite](https://github.com/Jana894/Projektseite.git)
 </details>
 
 <h2 id="kapitel1">1. Über uns</h2>
