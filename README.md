@@ -20,6 +20,8 @@
   <li><a href="#kapitel2.14">28.09.2022</a></h3></li>
   <li><a href="#kapitel2.15">04.10.2022</a></h3></li>
   <li><a href="#kapitel2.16">05.10.2022</a></h3></li>
+  <li><a href="#kapitel2.16">25.10.2022</a></h3></li>
+  <li><a href="#kapitel2.16">26.10.2022</a></h3></li>
 </details>
 
 <li><a href="#kapitel3">3. Projekt</a></h2></li>(https://github.com/Jana894/Projektseite.git)
@@ -226,24 +228,6 @@ Gestaltung "Level [] geschafft!" einheitlich mit "Gimp" (Jana)
 ![screenshot gimp](bilder/gimp_level_4_geschafft.png "Screenshot von Gimp")
 </details>
 
-<h2 id="kapitel3">3. Projekt</h2>
+<h3 id="kapitel2.14">25.10.2022</h3>
 
-<h3 id="kapitel3.1">Programm</h3>
-
-![logo snap](bilder/logo_snap.png "Screenshot von Snap!")
-
-Für unser Projekt haben wir "Snap!" genutzt, da dieses Programm gerade für Anfänger gut geeignet und einfach zu verstehen ist. Bei "Snap!" wird keine Programmiersprache genutzt, sondern Bausteine, auf denen in Englisch steht, was passieren soll, wenn sie zusammengesetzt werden. Für Anfänger ist gerade dies von Vorteil, da man sich nicht erst in die Programmiersprache einarbeiten muss, sondern direkt anfangen kann und die Herausforderung "nur" ist, die Bausteine richtig zu kombinieren, um den gewünschten Befehl auszuführen.
-
-<h3 id="kapitel3.2">Idee</h3>
-Unsere Grundidee basiert auf einem "Jump and Run"-Spiel, in welchem eine Figur in mehreren Leveln Hindernisse überwinden und zum Ziel gelangen muss. Hierbei ist es uns wichtig, dass die Figur weder von unten durch die Hindernisse hindurch darauf springen kann noch von einem Hindernis zum nächsten Hindrnis in der Luft laufen kann. Es muss also eine Schwerkraft oder Gravitationskraft erstellt werden, genauso wie undurchdringbare Hindernisse.
-
-<details id="Link"><summary>verworfene Ideen</summary>
-- 2D-Spiel: Labyrinth --> Tierpaare müssen sich gegenseitig finden 
-- 2D-Spiel: Irrgarten --> farbige Kugel müssen durch ein Wirrwarr von Wegen den richtigen Weg in das Rohr ihrer eigenen Farbe finden
-</details>
-
-<h3 id="kapitel3.3">Ergebnis</h3>
-Unser 2D-Spiel ist ein "Jump and Run"-Spiel geworden.
-
-<h2 id="kapitel4">4. Reflexion</h2> 
-Rückblickend lässt sich sagen, dass wir  sehr gut mit dem Programm "Snap!" zurechtgekommen sind und es Spaß gemacht hat, etwas Eigenes zu programmieren und am Ende auch zusehen, dass man etwas geschaffen hat
+<h3 id="kapitel2.14">26.10.2022</h3>
