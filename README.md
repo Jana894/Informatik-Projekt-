@@ -30,8 +30,6 @@
   <li><a href="#kapitel3.3">Ergebnis</a></h3></li>
 </details>
 
-<li><a href="#kapitel4">4. Reflexion</a></h2></li>
-
 <h2 id="kapitel1">1. Über uns</h2>
 
 Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Biologie- und Geschichtsprofil und hoffen, dass wir auch ohne jegliche Vorkenntnisse im Bezug auf Programmieren ein gutes Projekt gestalten und abliefern können.
