@@ -24,13 +24,8 @@
   <li><a href="#kapitel2.16">26.10.2022</a></h3></li>
 </details>
 
-<li><a href="#kapitel3">3. Projekt</a></h2></li>(https://github.com/Jana894/Projektseite.git)
-<details id="Link"><summary>Genauer</summary>
-    
-  <li><a href="#kapitel3.1">Programm</a></h3></li>
-  <li><a href="#kapitel3.2">Idee</a></h3></li>
-  <li><a href="#kapitel3.3">Ergebnis</a></h3></li>
-</details>
+<li><a href="#kapitel3">3. Projekt<(https://github.com/Jana894/Projektseite.git)
+/a></h2></li>
 
 <h2 id="kapitel1">1. Über uns</h2>
 
