@@ -229,5 +229,15 @@ Gestaltung "Level [] geschafft!" einheitlich mit "Gimp" (Jana)
 </details>
 
 <h3 id="kapitel2.14">25.10.2022</h3>
+Heute ist die Informatikstunde leider ausgefallen.
 
 <h3 id="kapitel2.14">26.10.2022</h3>
+Heute haben wir mit der Gestaltung des dritten Levels begonnen und den ersten Teil fertiggestellt. Wir müssen nur noch recherchieren, wie wir es programmieren können, dass unsere Figur Gegenstände einsammelt und noch den zweiten Teil des Levels programmieren. Da unser PC ständig hakt und dadurch alles etwas länger dauert sind wir nicht so gut voran gekommen wie gehofft. Anschließend haben wir noch mit Herrn Buhl den Abgabetermin unseres Projektes besprochen und uns auf den 12. Dezember geeinigt. Außerdem haben wir noch unsere Projektseite erstellt, da die Abgabe in zwei "README`s" erfolgen soll. Diese Projektseite haben wir mit unserem Stundenprotokoll verknüpft und schon angefangen, das Programm, mit welchem wir arbeiten, vorzustellen.
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Level 3 erster Teil
+    
+![screenshot snap](bilder/screenshot_snap_26.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_27.png "Screenshot von Snap!")
+</details>
