@@ -256,6 +256,7 @@ Level 3 erster Teil
 Heute war Schulentwicklungstag, weshalb die Informatikstunde ausgefallen ist.
 
 <h3 id="kapitel2.20">02.11.2022</h3>
+Heute haben wir unser drittes Level fertiggestellt und da wir die Programmierung unserer "Stage" nur sehr schwer und nach langem Laden öffnen konnten, haben wir Herrn Buhl um Hilfe gebeten, woran das Haken liegen könnte. Am Ende stellte sich heraus, dass unsere Programmierblöcke der "Stage" zu groß und umfangreich seien, weshalb wir die restliche Stunde damit verbracht haben, unsere eigenen Befehle mit Hilfe der Funktion "Make a block" zu programmieren und unsere "Stage-Programmierung" übersichtlicher zu machen. Nun haben wir nur noch ein Problem, um welches wir uns in der nächsten Stunde kümmern müssen und zwar hatten wir die Idee, unser drittes Level nicht mit dem Berühren der Zielflagge enden zulassen, sondern wenn die Figur zwei Münzen eingesammelt hat. Leider funktioniert die Programmierung, die wir uns überlegt haben noch nicht, weshalb wir diese in der nächsten Stunde noch einmal umändern müssen.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
