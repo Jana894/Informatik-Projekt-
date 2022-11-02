@@ -22,6 +22,8 @@
   <li><a href="#kapitel2.16">05.10.2022</a></h3></li>
   <li><a href="#kapitel2.16">25.10.2022</a></h3></li>
   <li><a href="#kapitel2.16">26.10.2022</a></h3></li>
+  <li><a href="#kapitel2.16">01.11.2022</a></h3></li>
+  <li><a href="#kapitel2.16">02.11.2022</a></h3></li>
 </details>
 
 <li><a href="#kapitel3">3. Projekt</a></h2></li>
@@ -239,3 +241,8 @@ Level 3 erster Teil
 ![screenshot snap](bilder/screenshot_snap_26.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_27.png "Screenshot von Snap!")
 </details>
+
+<h3 id="kapitel2.14">01.11.2022</h3>
+Heute war Schulentwicklungstag, weshalb die Informatikstunde ausgefallen ist.
+
+<h3 id="kapitel2.14">02.11.2022</h3>
