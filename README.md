@@ -246,3 +246,20 @@ Level 3 erster Teil
 Heute war Schulentwicklungstag, weshalb die Informatikstunde ausgefallen ist.
 
 <h3 id="kapitel2.14">02.11.2022</h3>
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Fertigstellung Level 3
+
+![screenshot snap](bilder/screenshot_snap_28.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_29.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_30.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_31.png "Screenshot von Snap!")
+
+Umprogrammierung der Stage
+
+![screenshot snap](bilder/screenshot_snap_32.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_33.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_34.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_35.png "Screenshot von Snap!")
+</details>
