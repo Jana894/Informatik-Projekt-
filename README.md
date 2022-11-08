@@ -276,6 +276,15 @@ Umprogrammierung der Stage
 </details>
 
 <h3 id="kapitel2.21">08.11.2022</h3>
+Heute haben wir das Level 3 entgültig fertig programmiert und konnten mit Hilfe von Herrn Buhl das langwierige Problem der letzten Stunde lösen. Jetzt endet das Level, wenn zwei Münzen eingesammelt werden und man wird zum Bildschirm "Level-3-geschafft!" weitergeleitet, von wo man dann wieder zur "Levelauswahl" gelangt. In der nächsten Stunde wollen wir Level 4 versuchen fertig zu programmieren, damit wir uns dann in den nächsten Stunden mit der Feinarbeit und Gestaltung unseres "Jump and run"-Spiels beschäftigen können. Dafür wollen wir uns in einen Pixelzeichner einarbeiten und unsere Levelwelt entwerfen, sowie Auswahloptionen der Figur. Des Weiteren möchten wir noch eine Titelmusik in unser Spiel eingliedern.
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Programmierung Münzen
+
+![screenshot snap](bilder/screenshot_snap_36.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_37.png "Screenshot von Snap!")
+</details>
 
 <h3 id="kapitel2.22">09.11.2022</h3>
 
