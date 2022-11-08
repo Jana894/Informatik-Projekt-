@@ -283,6 +283,7 @@ Heute haben wir das Level 3 entgültig fertig programmiert und konnten mit Hilfe
 Programmierung Münzen
 
 ![screenshot snap](bilder/screenshot_snap_36.png "Screenshot von Snap!")
+
 ![screenshot snap](bilder/screenshot_snap_37.png "Screenshot von Snap!")
 </details>
 
