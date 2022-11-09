@@ -249,7 +249,6 @@ Heute haben wir mit der Gestaltung des dritten Levels begonnen und den ersten Te
 Level 3 erster Teil
     
 ![screenshot snap](bilder/screenshot_snap_26.png "Screenshot von Snap!")
-![screenshot snap](bilder/screenshot_snap_27.png "Screenshot von Snap!")
 </details>
 
 <h3 id="kapitel2.19">01.11.2022</h3>
