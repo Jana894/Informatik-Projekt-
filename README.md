@@ -205,7 +205,7 @@ Programmierung unserer "Stage"
 Fertigstellung Programmierung Level 1
     
 ![screenshot snap](bilder/screenshot_snap_22.png "Screenshot von Snap!")
-![screenshot snap](bilder/screenshot_snap_42.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_42.png "Screenshot von Snap!") im Nachhinein hinzugefügt (09.11.2022)
     
 Programmierung "zurück zur Levelauswahl"
   
@@ -227,7 +227,7 @@ Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit
 Fertigstellung Programmierung Level 2
     
 ![screenshot snap](bilder/screenshot_snap_25.png "Screenshot von Snap!")
-![screenshot snap](bilder/screenshot_snap_43.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_43.png "Screenshot von Snap!") im Nachhinein hinzugefügt (09.11.2022)
 </details>
 
 <details id="Link"><summary>Nacharbeitung zu Hause</summary>
@@ -267,7 +267,7 @@ Fertigstellung Programmierung Level 3
 ![screenshot snap](bilder/screenshot_snap_29.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_30.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_31.png "Screenshot von Snap!")
-![screenshot snap](bilder/screenshot_snap_44.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_44.png "Screenshot von Snap!") im Nachhinein hinzugefügt (09.11.2022)
 
 Umprogrammierung der Stage
 
