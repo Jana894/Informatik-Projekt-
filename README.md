@@ -91,7 +91,7 @@ Programmierung Figur 2
 Leider haben wir heute wieder einen leeren Account bei "Snap!" vorgefunden und dachten für einen kurzen Moment, dass wir wieder komplett von vorne anfangen müssen. Zum Glück haben wir dann aber nach langem Ausprobieren und Suchen, unser Projekt öffnen und bearbeiten können, sodass nicht alles von vorne angefangen werden muss. Da wir ein "Jump and Run" Spiel gestalten möchten, haben wir heute recherchiert, wie wir die Hindernisse programmieren können, sodass die Figuren darauf landen und nicht hindurchgehen können. Dazu haben wir uns Beispiele aus dem Internet und das "Mirror-Game" angeschaut.
 
 <h3 id="kapitel2.6">31.08.2022</h3>
-Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere Figuren zu gestalten, damit sie nicht aus dem Bildschirm fallen, sondern die ganze Zeit zu sehen sind. Im Internet haben wir recherchiert, jedoch keine hilfreichen Informationen gefunden, weshalb Herr Buhl uns als Hilfestellung ein Projekt mit einem Abenteuer Spiel rausgesucht hat. Mit Hilfe des Abenteuerspielshätten wir eventuell einen Ansatz bekommen können, wie unsere Figur nicht mehr aus dem Bild fallen kann - unsere zweite Figur haben wir erst einmal gelöscht, damit wir uns auf eine Figur konzentrieren können und das Spiel fertig bekommen und am Ende, wenn wir noch Zeit haben, dann noch eine zweite Figur hinzufügen und programmieren können. Leider hat auch die Programmierung des Abenteuerspiels bei uns nicht funktioniert, weshalb wir in dem Aspekt immer noch nicht weiter gekommen sind. Dank der Hilfe von Juliane haben wir es am Ende der Stunde dann doch noch geschafft, unsere Figur vom festen Boden auf ein Hindernis springen zu lassen, ohne dass sie durch das Hindernis durchfällt oder aus dem Bild verschwindet, zwar auf eine andere und womöglich kompliziertere Art und Weise, aber eine die für uns funktioniert. Nun erstellen wir unsere Hindernisse als Spielfiguren, die sich aber nicht bewegen, sondern in den Hintergrund integriert sind.
+Heute haben wir uns weiterhin damit beschäftigt, einen Untergrund für unsere Figuren zu gestalten, damit sie nicht aus dem Bildschirm fallen, sondern die ganze Zeit zu sehen sind. Im Internet haben wir recherchiert, jedoch keine hilfreichen Informationen gefunden, weshalb Herr Buhl uns als Hilfestellung ein Projekt mit einem Abenteuer Spiel rausgesucht hat. Mit Hilfe des Abenteuerspiels hätten wir eventuell einen Ansatz bekommen können, wie unsere Figur nicht mehr aus dem Bild fallen kann - unsere zweite Figur haben wir erst einmal gelöscht, damit wir uns auf eine Figur konzentrieren können und das Spiel fertig bekommen und am Ende, wenn wir noch Zeit haben, dann noch eine zweite Figur hinzufügen und programmieren können. Leider hat auch die Programmierung des Abenteuerspiels bei uns nicht funktioniert, weshalb wir in dem Aspekt immer noch nicht weiter gekommen sind. Dank der Hilfe von Juliane haben wir es am Ende der Stunde dann doch noch geschafft, unsere Figur vom festen Boden auf ein Hindernis springen zu lassen, ohne dass sie durch das Hindernis durchfällt oder aus dem Bild verschwindet, zwar auf eine andere und womöglich kompliziertere Art und Weise, aber eine die für uns funktioniert. Nun erstellen wir unsere Hindernisse als Spielfiguren, die sich aber nicht bewegen, sondern in den Hintergrund integriert sind.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
@@ -205,6 +205,7 @@ Programmierung unserer "Stage"
 Fertigstellung Programmierung Level 1
     
 ![screenshot snap](bilder/screenshot_snap_22.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_42.png "Screenshot von Snap!")
     
 Programmierung "zurück zur Levelauswahl"
   
@@ -226,6 +227,7 @@ Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit
 Fertigstellung Programmierung Level 2
     
 ![screenshot snap](bilder/screenshot_snap_25.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_43.png "Screenshot von Snap!")
 </details>
 
 <details id="Link"><summary>Nacharbeitung zu Hause</summary>
@@ -265,6 +267,7 @@ Fertigstellung Programmierung Level 3
 ![screenshot snap](bilder/screenshot_snap_29.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_30.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_31.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_44.png "Screenshot von Snap!")
 
 Umprogrammierung der Stage
 
