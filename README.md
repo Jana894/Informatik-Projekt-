@@ -290,7 +290,7 @@ Programmierung Münzen
 </details>
 
 <h3 id="kapitel2.22">09.11.2022</h3>
-Heute haben wir unser viertes und letztes Level programmiert und sind damit auch fertig geworden. Auch für dieses Level haben wir uns ein neues Element überlegt -Mauer-, durch welche die Figur nicht hindurchlafen kann sondern über sie drüber springen muss. In diesem Level taucht dann auch wieder, wie aus Level 1 und 2 bekannt, eine Zielflagge auf. Wenn diese erreicht wird, ist das Level geschafft und man wird zum "Stage-Costume" "Level-4-geschafft" weitergeleitet und gelangt wieder zurück zur Levelauswahl. 
+Heute haben wir unser viertes und letztes Level programmiert und sind damit auch fertig geworden. Auch für dieses Level haben wir uns ein neues Element überlegt -Mauer-, durch welche die Figur nicht hindurchlafen kann sondern über sie drüber springen muss. In diesem Level taucht dann auch wieder, wie aus Level 1 und 2 bekannt, eine Zielflagge auf. Wenn diese erreicht wird, ist das Level geschafft und man wird zum "Stage-Costume" "Level-4-geschafft" weitergeleitet und gelangt wieder zurück zur Levelauswahl. In den nächsten Stunden werden wir uns dann damit beschäftigen, unsere Projektseite auszuarbeiten und unser 2D-Spiel mit einem Pixelzeichner zu gestalten.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
