@@ -202,7 +202,7 @@ Programmierung unserer "Stage"
 ![screenshot snap](bilder/screenshot_snap_20.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_21.png "Screenshot von Snap!")
 
-Fertigstellung Level 1
+Fertigstellung Programmierung Level 1
     
 ![screenshot snap](bilder/screenshot_snap_22.png "Screenshot von Snap!")
     
@@ -219,11 +219,11 @@ Programmierung "nächstes Level"
 Die heutige Informatikstunde ist leider ausgefallen und da Jana noch eine Englischklausur geschrieben hat, haben wir nicht an unserem Projekt weitergearbeitet.
 
 <h3 id="kapitel2.16">05.10.2022</h3>
-Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit der Gestaltung unseres zweiten Levels beschäftigt und dieses auch beendet. Hierfür wurden die Ebenen 9,10,11,12 und 13 programmiert, sowie die Zielflagge 2. Auch wenn diese brührt wird, wechselt die Stage vom "Level 2.2" zu "Level 2 geschafft!", ähnlich wie in Level 1. Für unser zweites Level haben wir uns ein neues Element ausgedacht -Feuer-, wenn unsere Figur dieses berührt muss sie das Level von vorne beginnen, die Programmierung hat uns dann etwas mehr Zeit gekostet, aber auch das haben wir hinbekommen.
+Heute war die letzte Informatikstunde vor den Herbstferien und wir haben uns mit der Programmierung unseres zweiten Levels beschäftigt und dieses auch beendet. Hierfür wurden die Ebenen 9,10,11,12 und 13 programmiert, sowie die Zielflagge 2. Auch wenn diese brührt wird, wechselt die Stage vom "Level 2.2" zu "Level 2 geschafft!", ähnlich wie in Level 1. Für unser zweites Level haben wir uns ein neues Element ausgedacht -Feuer-, wenn unsere Figur dieses berührt muss sie das Level von vorne beginnen, die Programmierung hat uns dann etwas mehr Zeit gekostet, aber auch das haben wir hinbekommen.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
-Fertigstellung Level 2
+Fertigstellung Programmierung Level 2
     
 ![screenshot snap](bilder/screenshot_snap_25.png "Screenshot von Snap!")
 </details>
@@ -260,7 +260,7 @@ Heute haben wir unser drittes Level fertiggestellt und da wir die Programmierung
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
-Fertigstellung Level 3
+Fertigstellung Programmierung Level 3
 
 ![screenshot snap](bilder/screenshot_snap_28.png "Screenshot von Snap!")
 ![screenshot snap](bilder/screenshot_snap_29.png "Screenshot von Snap!")
@@ -288,6 +288,16 @@ Programmierung Münzen
 </details>
 
 <h3 id="kapitel2.22">09.11.2022</h3>
+Heute haben wir unser viertes und letztes Level programmiert und sind damit auch fertig geworden. Auch für dieses Level haben wir uns ein neues Element überlegt -Mauer-, durch welche die Figur nicht hindurchlafen kann sondern über sie drüber springen muss. In diesem Level taucht dann auch wieder, wie aus Level 1 und 2 bekannt, eine Zielflagge auf. Wenn diese erreicht wird, ist das Level geschafft und man wird zum "Stage-Costume" "Level-4-geschafft" weitergeleitet und gelangt wieder zurück zur Levelauswahl. 
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Fertigstellung Programmierung Level 4
+
+![screenshot snap](bilder/screenshot_snap_38.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_39.png "Screenshot von Snap!")
+![screenshot snap](bilder/screenshot_snap_40.png "Screenshot von Snap!")
+</details>
 
 <h3 id="kapitel2.23">15.11.2022</h3>
 
