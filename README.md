@@ -316,7 +316,8 @@ Programmierung Musik
 
 <details id="Link"><summary>Musik</summary>
 
-![startsound](Musik/Startsound_1.mp3 "Startsound")
+![Startsound](Musik/Startsound_1.mp3 "Startsound")
+![Gamesound](Musik/Gamesound_1.mp3 "Gamesound")
 </details>
 
 <h3 id="kapitel2.25">22.11.2022</h3>
