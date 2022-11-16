@@ -302,6 +302,7 @@ Fertigstellung Programmierung Level 4
 </details>
 
 <h3 id="kapitel2.23">15.11.2022</h3>
+Die heutige Informatikstunde ist leider ausgefallen.
 
 <h3 id="kapitel2.24>16.11.2022</h3>
 
