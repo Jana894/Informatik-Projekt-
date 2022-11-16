@@ -339,4 +339,4 @@ Hinzufügen von Kommentaren und Fertigstellung der Feinheiten zu Hause (Jana)
 
 <h2 id="kapitel3">3. Projektseite</h2>
 
-[Projektseite]8https://github.com/Jana894/Projektseite.git)
+[Projektseite](https://github.com/Jana894/Projektseite.git)
