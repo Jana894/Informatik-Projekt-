@@ -305,13 +305,18 @@ Fertigstellung Programmierung Level 4
 Die heutige Informatikstunde ist leider ausgefallen.
 
 <h3 id="kapitel2.24">16.11.2022</h3>
-Heute haben wir uns damit beschäftigt, die Sounds, welche Bente zusammen mit ihrem Bruder produziert hat, in unser 2D-Spiel einnzugliedern. Leider hat das alles nicht so funktioniert wie wir wollten und wir mussten die Datei in eine "wav"-Datei konvertieren. Leider ist unser "Gamesound" zu groß, sodass wir unser "Snap-Projekt" nicht speichern können und den Sound auch nicht in unser "ReadMe" einfügen können. Nachdem wir nun die Audio-Dateien in "mp3" umgewandelt haben, hat alles funktioniert.
+Heute haben wir uns damit beschäftigt, die Sounds, welche Bente zusammen mit ihrem Bruder produziert hat, in unser 2D-Spiel einzugliedern. Leider hat das alles nicht so funktioniert wie wir wollten und wir mussten die Datei in eine "wav"-Datei konvertieren. Leider ist unser "Gamesound" in diesem Format zu groß, sodass wir unser "Snap-Projekt" nicht speichern können und den Sound auch nicht in unser "ReadMe" einfügen können. Nachdem wir nun die Audio-Dateien in "mp3" umgewandelt haben und die "Sounds" nur in einer Figur hochgeladen haben, die dann durch einen "Broadcast" alles verwaltet, hat alles funktioniert und wir konnten das Projekt speichern. Am Dienstag müssen wir uns dann nur noch einmal damit beschäftigen, dass beide "Sounds" ungefähr die selbe Lautstärke haben und dann geht es an das Layout unseres Spiels. Heute hatten wir die Idee, eine Art Dschungel-Welt zu kreieren, da müssen wir dann in den nächsten Stunden mal schauen, inwiefern wir das umgesetzt bekommen.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
 Programmierung Musik
 
 ![screenshot snap](bilder/screenshot_snap_48.png "Screenshot von Snap!")
+</details>
+
+<details id="Link"><summary>Musik</summary>
+
+![startsound](Musik/Startsound_1.mp3 "Startsound")
 </details>
 
 <h3 id="kapitel2.25">22.11.2022</h3>
