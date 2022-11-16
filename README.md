@@ -309,6 +309,7 @@ Heute haben wir uns damit beschäftigt, die Sounds, welche Bente zusammen mit ih
 
 <details id="Link"><summary>Musik für unser Projekt</summary>
 
+![startsound](Musik/Startsound.wav "Startsound")
 </details>
 
 <h3 id="kapitel2.25">22.11.2022</h3>
