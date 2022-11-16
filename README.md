@@ -305,6 +305,11 @@ Fertigstellung Programmierung Level 4
 Die heutige Informatikstunde ist leider ausgefallen.
 
 <h3 id="kapitel2.24>16.11.2022</h3>
+Heute haben wir uns damit beschäftigt, die Sounds, welche Bente zusammen mit ihrem Bruder produziert hat, in unser 2D-Spiel einnzugliedern. Leider hat das alles nicht so funktioniert wie wir wollten und wir mussten die Datei in eine "wav"-Datei konvertieren. 
+
+<details id="Link"><summary>Musik für unser Projekt</summary>
+
+</details>
 
 <h3 id="kapitel2.25">22.11.2022</h3>
 
