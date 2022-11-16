@@ -36,7 +36,7 @@
   <li><a href="#kapitel2.30">07.12.2022</a></h3></li>
 </details>
 
-<li><a href="#kapitel3">3. [Projektseite] (https://github.com/Jana894/Projektseite.git)</a></h2></li>
+<li><a href="#kapitel3">3. [Projektseite][(https://github.com/Jana894/Projektseite.git)]</a></h2></li>
 <details id="Link"><summary>Genauer</summary>
     
 [Projektseite](https://github.com/Jana894/Projektseite.git)
