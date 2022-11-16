@@ -37,10 +37,6 @@
 </details>
 
 <li><a href="https://github.com/Jana894/Projektseite.git">3. Projektseite</a></h2></li>
-<details id="Link"><summary>Genauer</summary>
-    
-[Projektseite](https://github.com/Jana894/Projektseite.git)
-</details>
 
 <h2 id="kapitel1">1. Über uns</h2>
 
@@ -336,7 +332,3 @@ Hinzufügen von Kommentaren und Fertigstellung der Feinheiten zu Hause (Jana)
 <h3 id="kapitel2.29">06.12.2022</h3>
 
 <h3 id="kapitel2.30">07.12.2022</h3>
-
-<h2 id="kapitel3">3. Projektseite</h2>
-
-[Projektseite](https://github.com/Jana894/Projektseite.git)
