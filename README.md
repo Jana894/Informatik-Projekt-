@@ -33,7 +33,7 @@
   <li><a href="#kapitel2.27">29.11.2022</a></h3></li>
   <li><a href="#kapitel2.28">30.11.2022</a></h3></li>
   <li><a href="#kapitel2.29">06.12.2022</a></h3></li>
-  <li><a href="#kapitel2.30">07.12.2022</a></h3></li>
+  <li><a href="#kapitel2.30">07.12.2022</a></h3></li> 
 </details>
 
 <li><a href="#kapitel3">3. Projektseite</a></h2></li>
