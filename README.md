@@ -312,6 +312,9 @@ Heute haben wir uns damit beschäftigt, die Sounds, welche Bente zusammen mit ih
 Programmierung Musik
 
 ![screenshot snap](bilder/screenshot_snap_48.png "Screenshot von Snap!")
+
+Hinzufügen von Kommentaren und Fertigstellung der Feinheiten zu Hause (Jana)
+
 ![screenshot snap](bilder/screenshot_snap_49.png "Screenshot von Snap!")
 </details>
 
