@@ -44,7 +44,7 @@
 
 <h2 id="kapitel1">1. Über uns</h2>
 
-Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Biologie- und Geschichtsprofil und hoffen, dass wir auch ohne jegliche Vorkenntnisse im Bezug auf Programmieren ein gutes Projekt gestalten und abliefern können.
+Wir sind Bente Rosenthal und Jana Sophie Schümann aus der 12bfg. Wir sind im Biologie- und Geschichtsprofil und hoffen, dass wir auch ohne jegliche Vorkenntnisse im Bezug auf Programmieren ein gutes Projekt gestalten und abliefern können. Da wir uns auch außerhalb der Schule sehr gut verstehen, denken wir, dass wir bei diesem Projekt ein gutes Team sein werden und am Ende ein erfolgreiches Projekt abgeben können, mit welchem wir beide sehr zufrieden sind und auf welches wir stolz sein können.
 
 <h2 id="kapitel2">2. Stundenprotokolle</h2>
 
