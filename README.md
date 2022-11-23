@@ -322,8 +322,15 @@ Hinzufügen von Kommentaren und Fertigstellung der Feinheiten zu Hause (Jana)
 </details>
 
 <h3 id="kapitel2.25">22.11.2022</h3>
+Die heutige Informatikstunde ist aufgrund des Englischvorabiturs ausgefallen.
 
 <h3 id="kapitel2.26">23.11.2022</h3>
+Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und uns, nachdem wir mehrere Pixelzeichner ausprobiert haben und Herr Buhl uns das Pixelzeichnen mit "Gimp" erklärt hat, für den Onlinepixelzeichner "Pixilart" entschieden. Dieser war sehr verständlich und wir sind sofort zurecht gekommen. Wir haben heute erst einmal kleine Details gezeichnet, wie zum Beispiel die Münzen oder die Zielflagge, um uns mit dem Pixelzeichner vertraut zu machen. Für nächste Woche haben wir uns vorgenommen, unsere Figur zu entwerfen und die Mauern aus Level 4 zu zeichnen, bovor wir uns an die Gestaltung des Bodens und der Ebenen machen.
+
+<details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
+
+![Münze](bilder/Münze.png "Münze")
+</details>
 
 <h3 id="kapitel2.27">29.11.2022</h3>
 
