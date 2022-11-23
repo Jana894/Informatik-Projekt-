@@ -330,6 +330,8 @@ Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und un
 <details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
 
 ![Münze](bilder/Münze.png "Münze")
+![Zielflagge](bilder/Zielflagge.png "Zielflagge")
+![Feuer](bilder/Feuer.png "Feuer")
 </details>
 
 <h3 id="kapitel2.27">29.11.2022</h3>
