@@ -335,9 +335,14 @@ Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und un
 </details>
 
 <h3 id="kapitel2.27">29.11.2022</h3>
+leider ist die heutige Informatikstunde ausgefallen und die morgige steht auch als Ausfall drin, weshalb wir beschlossen haben, die Layout Gestaltung unseres 2D-Spiels aufzuteilen und nächste Woche dann die letzten Feinarbeiten zusammen zu machen.
 
-<details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
+<details id="Link"><summary>Arbeit zu Hause</summary>
+Gestaltung Level 1 und 2 (Bente)
+</details>
 
+<details id="Link"><summary>Arbeit zu Hause</summary>
+Gestaltung Level 3 und 4 (Jana)
 ![Mauer links](bilder/Mauer_links.png "Mauer")
 
 ![Mauer rechts](bilder/Mauer_rechts.png "Mauer")
