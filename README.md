@@ -336,6 +336,13 @@ Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und un
 
 <h3 id="kapitel2.27">29.11.2022</h3>
 
+<details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
+
+![Mauer links](bilder/Mauer_links.png "Mauer")
+![Mauer rechts](bilder/Mauer_rechts.png "Mauer")
+![Mauer 2](bilder/Mauer_2.png "Mauer")
+</details>#
+
 <h3 id="kapitel2.28">30.11.2022</h3>
 
 <h3 id="kapitel2.29">06.12.2022</h3>
