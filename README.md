@@ -349,6 +349,12 @@ Gestaltung Level 3 und 4 (Jana)
 ![Mauer rechts](bilder/Mauer_rechts.png "Mauer")
 
 ![Mauer 2](bilder/Mauer_2.png "Mauer")
+
+![kleine Ebene](bilder/Ebenen klein.png "Ebene")
+
+![mittlere Ebene](bilder/Ebenen mittel.png "Ebene")
+
+![Lianen](bilder/Lianen.png "Lianen")
 </details>
 
 <h3 id="kapitel2.28">30.11.2022</h3>
