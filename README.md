@@ -355,9 +355,20 @@ Gestaltung Level 3 und 4 (Jana)
 ![Ebenen mittel](bilder/Ebenen_mittel.png "Ebene")
 
 ![Lianen](bilder/Lianen.png "Lianen")
+
+![Ebene klein](bilder/Ebene_klein.png "Ebene")
+
+![Ebene mittel](bilder/Ebene_mittel.png "Ebene")
+
+![Ebene groß](bilder/Ebene_groß.png "Ebene")
+
+![Moos](bilder/Moos.png "Moos")
+
+![Moos](bilder/Moos_2.png "Moos")
 </details>
 
 <h3 id="kapitel2.28">30.11.2022</h3>
+Leider ist auch die heutige Stunde ausgefallen. Ergebnisse dieser Woche finden sich unter "Arbeit zu Hause" am 27.11.2022.
 
 <h3 id="kapitel2.29">06.12.2022</h3>
 
