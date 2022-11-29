@@ -350,9 +350,9 @@ Gestaltung Level 3 und 4 (Jana)
 
 ![Mauer 2](bilder/Mauer_2.png "Mauer")
 
-![kleine Ebene](bilder/Ebenen klein.png "Ebene")
+![Ebenen klein](bilder/Ebenen klein.png "Ebene")
 
-![mittlere Ebene](bilder/Ebenen mittel.png "Ebene")
+![Ebenen mittel](bilder/Ebenen mittel.png "Ebene")
 
 ![Lianen](bilder/Lianen.png "Lianen")
 </details>
