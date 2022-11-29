@@ -339,9 +339,11 @@ Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und un
 <details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
 
 ![Mauer links](bilder/Mauer_links.png "Mauer")
+
 ![Mauer rechts](bilder/Mauer_rechts.png "Mauer")
+
 ![Mauer 2](bilder/Mauer_2.png "Mauer")
-</details>#
+</details>
 
 <h3 id="kapitel2.28">30.11.2022</h3>
 
