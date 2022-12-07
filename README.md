@@ -332,7 +332,9 @@ Heute haben wir uns endlich mit dem Layout unseres 2D-Spiels beschäftigt und un
 <details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
 
 ![Münze](bilder/Münze.png "Münze")
+
 ![Zielflagge](bilder/Zielflagge.png "Zielflagge")
+
 ![Feuer](bilder/Feuer.png "Feuer")
 </details>
 
@@ -438,6 +440,11 @@ Programmierung Level 3
 Programmierung Level 4
 
 ![Level 4](bilder/Programmierung_Level4_I_I.png "Level 4")
+</details>
+
+<details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
+
+![Figur](bilder/Geist.png "Figur")
 </details>
 
 <h3 id="kapitel2.31">13.12.2022</h3>
