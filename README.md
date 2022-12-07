@@ -377,25 +377,39 @@ Heute musste Jana alleine weiterarbeiten, da Bente krank ist und deshalb leider 
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
+Programmierung Figur
+
 ![Figur](bilder/Bewegungen_der_Figur.png "Figur")
+
+Programmierung Musik
 
 ![Musik](bilder/Programmierung_Musik.png "Musik")
 
+Programmierung allgemeine Befehle
+
 ![allgemeine Befehle](bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
+
+Programmierung Level 1
 
 ![Level 1](bilder/Programmierung_Level1_I.png "Level 1")
 
 ![Level 1](bilder/Programmierung_Level1_II.png "Level 1")
 
+Programmierung Level 2
+
 ![Level 2](bilder/Programmierung_Level2_I.png "Level 2")
 
 ![Level 2](bilder/Programmierung_Level2_II.png "Level 2")
+
+Programmierung Level 3
 
 ![Level 3](bilder/Programmierung_Level3_I.png "Level 3")
 
 ![Level 3](bilder/Programmierung_Level3_II.png "Level 3")
 
 ![Münzen](bilder/Programmierung_Münzen.png "Münzen")
+
+Programmierung Level 4
 
 ![Level 4](bilder/Programmierung_Level4_I.png "Level 4")
 
