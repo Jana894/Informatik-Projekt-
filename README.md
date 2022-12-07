@@ -421,7 +421,7 @@ Programmierung Level 4
 </details>
 
 <h3 id="kapitel2.30">07.12.2022</h3>
-Bente war leider immer noch krank, weshalb Jana heute alleine die Figur mit dem Pixelzeichner designed hat und daraufhin bei "Snap!" alle y-Positionen unserer Figur ändern musste und alle Screenshots, die gestern gemacht wurden nochmal neu machen musste, damit nun auch die richtigen Fakten auf der Projektseite zu finden sind. Das umändern und gestalten der Figur hat die ganze Doppelstunde in Anspruch genommen, weshalb Jana nur anfangen konnte, auf der Projektseite unsere einzelnen Programmierungen der Level zu erklären und das nächste Woche zusammen mit Bente beendet werden muss.
+Bente war leider immer noch krank, weshalb Jana heute alleine die Figur mit dem Pixelzeichner designed hat und daraufhin bei "Snap!" alle y-Positionen unserer Figur ändern musste und alle Screenshots, die gestern gemacht wurden nochmal neu machen musste, damit nun auch die richtigen Fakten auf der Projektseite zu finden sind. Das umändern und gestalten der Figur hat die ganze Doppelstunde in Anspruch genommen, weshalb Jana nur anfangen konnte, auf der Projektseite unsere einzelnen Programmierungen der Level zu erklären und dies dann zu Hause beendet hat, damit nächste Woche mit Bente alles in Ruhe noch einmal durchgelesen und überarbeitet werden kann. Falls noch kleine Sahen unstimmig sind oder auffallen können diese noch verändert werden und dann können wir unser Ergebnis hoffentlich am Ende der Doppelstunde am Mittwoch per E-Mail an Herrn Buhl schicken. 
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
 
