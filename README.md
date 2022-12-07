@@ -419,6 +419,26 @@ Programmierung Level 4
 </details>
 
 <h3 id="kapitel2.30">07.12.2022</h3>
+Bente war leider immer noch krank, weshalb Jana heute alleine die Figur mit dem Pixelzeichner designed hat und daraufhin bei "Snap!" alle y-Positionen unserer Figur ändern musste und alle Screenshots, die gestern gemacht wurden nochmal neu machen musste, damit nun auch die richtigen Fakten auf der Projektseite zu finden sind. Das umändern und gestalten der Figur hat die ganze Doppelstunde in Anspruch genommen, weshalb Jana nur anfangen konnte, auf der Projektseite unsere einzelnen Programmierungen der Level zu erklären und das nächste Woche zusammen mit Bente beendet werden muss.
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Programmierung Level 1
+
+![Level 1](bilder/Programmierung_Level1_I_I.png "Level 1")
+
+Programmierung Level 2
+
+![Level 2](bilder/Programmierung_Level2_I_I.png "Level 2")
+
+Programmierung Level 3
+
+![Level 3](bilder/Programmierung_Level3_I_I.png "Level 3")
+
+Programmierung Level 4
+
+![Level 4](bilder/Programmierung_Level4_I_I.png "Level 4")
+</details>
 
 <h3 id="kapitel2.31">13.12.2022</h3>
 
