@@ -373,21 +373,34 @@ Gestaltung Level 3 und 4 (Jana)
 Leider ist auch die heutige Stunde ausgefallen. Ergebnisse dieser Woche finden sich unter "Arbeit zu Hause" am 27.11.2022.
 
 <h3 id="kapitel2.29">06.12.2022</h3>
-Heute musste Jana alleine weiterarbeiten, da Bente krank ist und deshalb leider nicht kommen konnte. Zuerst haben wir zusammen mit Herrn Buhl den Termin für die Abgabe unserer Projekte auf den 19.12.2022 verlegt, da in der letzten Woche kein Informatik stattgefunden hat. Danach hat Jana sich damit beschäftigt die entgültige Programmierung für die Projektseite zu überprüfen und zu screenshotten.
+Heute musste Jana alleine weiterarbeiten, da Bente krank ist und deshalb leider nicht kommen konnte. Zuerst haben wir zusammen mit Herrn Buhl den Termin für die Abgabe unserer Projekte auf den 19.12.2022 verlegt, da in der letzten Woche kein Informatikunterricht stattgefunden hat. Danach hat Jana sich damit beschäftigt die entgültige Programmierung für die Projektseite zu überprüfen und zu screenshotten.
 
 <details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
 ![Figur](bilder/Bewegungen_der_Figur.png "Figur")
+
 ![Musik](bilder/Programmierung_Musik.png "Musik")
+
 ![allgemeine Befehle](bilder/Programmierung_allgemeiner_Befehle.png "allgemeine Befehle")
+
 ![Level 1](bilder/Programmierung_Level1_I.png "Level 1")
+
 ![Level 1](bilder/Programmierung_Level1_II.png "Level 1")
+
 ![Level 2](bilder/Programmierung_Level2_I.png "Level 2")
+
 ![Level 2](bilder/Programmierung_Level2_II.png "Level 2")
+
 ![Level 3](bilder/Programmierung_Level3_I.png "Level 3")
+
 ![Level 3](bilder/Programmierung_Level3_II.png "Level 3")
+
 ![Münzen](bilder/Programmierung_Münzen.png "Münzen")
+
 ![Level 4](bilder/Programmierung_Level4_I.png "Level 4")
+
 ![Level 4](bilder/Programmierung_Level4_II.png "Level 4")
+
 ![Level 4](bilder/Programmierung_Level4_III.png "Level 4")
 </details>
 
