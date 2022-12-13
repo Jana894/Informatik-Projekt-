@@ -448,5 +448,11 @@ Programmierung Level 4
 </details>
 
 <h3 id="kapitel2.31">13.12.2022</h3>
+Heute hat Jana Bente erzählt und gezeigt, was sie in der letzten Woche gemacht hat. Anschließend haben wir zusammen eine neue "Sprite" erstellt, die zu Beginn jedes Levels dem Spieler sagt, dass die "space"-Taste gedrückt werden muss, damit die Figur im Spiel erscheint und man anfangen kann.
+
+<details id="Link"><summary>Arbeit mit Pixelzeichner</summary>
+
+![Start](bilder/Start.png "Start")
+</details>
 
 <h3 id="kapitel2.32">14.12.2022</h3>
