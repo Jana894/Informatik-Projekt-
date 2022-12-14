@@ -456,3 +456,12 @@ Heute hat Jana Bente erzählt und gezeigt, was sie in der letzten Woche gemacht 
 </details>
 
 <h3 id="kapitel2.32">14.12.2022</h3>
+Heute kam Bente später aufgrund eines Termins, weshalb Jana sich zunächst alleine mit der Programmierung des "Pop ups" beschäftigt hat. Anschließend wurde noch die Projektseite überarbeitet und ergänzt und wir sind noch einmal alle Stundenprotokolle durchgegangen, ob uns noch welche fehlen bzw. wir noch bei einzelnen Einträgen etwas ergänzen müssen. Danach haben wir recherchiert, wie wir unser "Snap-Projekt" veröffentlichen können und nach langem Suchen und ausprobieren hat es gegen Ende der Stunde dann auch geklappt.
+Am Ende der Stunde haben wir dann eine Mail an Herrn Buhl geschrieben mit den Links zu unseren Stundenprotokollen,unserer Projektseite und unserem "Snap-Projekt".
+
+<details id="Link"><summary>Arbeit mit "Snap!"</summary>
+
+Programmierung Pop-up
+
+![Pop up](bilder/Programmierung_Pop-up.png "Pop up")
+</details>
